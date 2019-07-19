@@ -26,7 +26,11 @@ if(n==0){
     return 0;
 }
 else {
-    
+    if(d==2)
+    {
+    break;
+    }
+    cout<<"hello";
     
     
 }
